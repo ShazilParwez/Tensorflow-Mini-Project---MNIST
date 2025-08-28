@@ -42,7 +42,3 @@ The goal of this project is to **classify handwritten digits (0–9)** using the
 - NumPy, Matplotlib (for visualization)  
 
 ---
-
-## ▶️ How to Run
-1. Clone the repo:  
-   ```bash
